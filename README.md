@@ -1,3 +1,3 @@
 # OnlineExam
 
-Online MCQ exam made using mysql and django
+Online MCQ exam made using Mysql and Django
